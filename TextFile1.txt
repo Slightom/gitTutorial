@@ -2,4 +2,8 @@ Hello world!
 ffsd
 edsfdsfdsfsfsdfsds
 
+<<<<<<< HEAD
 person1 changed this
+=======
+p2 also changed tF1
+>>>>>>> 84251d9bf3187434a2e91e2f308b21fd1ca5ef32
