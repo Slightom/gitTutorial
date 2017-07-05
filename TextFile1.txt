@@ -4,3 +4,5 @@ edsfdsfdsfsfsdfsds
 
 
 git original was here
+git2 was here
+finally i resolved conflict putting two entries :)
